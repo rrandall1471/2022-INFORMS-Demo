@@ -1,0 +1,22 @@
+name: informs-2022
+channels:
+  - gurobi
+  - conda-forge
+  - defaults
+dependencies:
+  - jsonschema
+  - openpyxl
+  - pandas=1.4
+  - python=3.9
+  - xlrd
+  - xlsxwriter
+  - pip=22.0.4
+  - black
+  - numpy
+  - scipy
+  - gurobi
+  - jupyterlab
+  - plotly
+  - mypy
+  - pip:
+    - gurobipy-stubs

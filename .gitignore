@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+~*.docx
+~*.pptx
+*.lp
+**.DS_Store
 
 # Distribution / packaging
 .Python
